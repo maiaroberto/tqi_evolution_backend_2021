@@ -1,4 +1,4 @@
-![texto](logo_tqi.jpg)
+![tqi_evolution_backend_2021](tqi_banner.jpg)
 
 # tqi_evolution_backend_2021
 
